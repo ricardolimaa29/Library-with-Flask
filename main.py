@@ -44,6 +44,11 @@ def index():
         "name":"Pedro",
         "age":18,
         "email":"Pedro@gmail.com"
+        },
+        {
+        "name":"Lucca",
+        "age":18,
+        "email":"Lucca@gmail.com"
         }
 
     ]
