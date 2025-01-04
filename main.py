@@ -39,7 +39,13 @@ def index():
         "name":"Lucas",
         "age":30,
         "email":"Lucas@gmail.com"
+        },
+        {
+        "name":"Pedro",
+        "age":18,
+        "email":"Pedro@gmail.com"
         }
+
     ]
     return render_template(
         "index.html",
